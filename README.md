@@ -18,3 +18,13 @@ $ git clone https://github.com/ItsJuniorDias/React-Hooks-
 $ cd React-Hooks-
 ```
 
+
+## Getting Started
+
+```
+$ npm install 
+
+$ npm start 
+```
+
+
