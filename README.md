@@ -1,5 +1,4 @@
 # React-Hooks- :octocat:
-Project built for Hooks study purposes
 
  ## About this Project
 
