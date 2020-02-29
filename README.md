@@ -1,4 +1,4 @@
-# React-Hooks- :octocat:
+# React-Hooks :octocat:
 
  ## About this Project
 
